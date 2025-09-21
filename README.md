@@ -48,10 +48,9 @@ The database consists of 4 tables:
 ---
 
 ## Total spent per customer per date
-
-# Customer Phone	Date	Total  Spent
-Trevor Page	226-555-4982	2023-09-10	50.96
-John Doe	555-555-9498	2023-09-10	39.97
-John Doe	555-555-9498	2023-10-10	42.96
+Customer Phone	Date	Total  Spent:
+- Trevor Page	226-555-4982	2023-09-10	50.96
+- John Doe	555-555-9498	2023-09-10	39.97
+- John Doe	555-555-9498	2023-10-10	42.96
 
 
